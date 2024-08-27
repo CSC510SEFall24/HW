@@ -6,4 +6,7 @@
 <br />
 <p align="center">
   <img src="https://github.com/CSC510SEFall24/HW1/actions/workflows/python_tests.yml/badge.svg" alt="GitHub workflow badge">
+  <a href="https://codecov.io/gh/CSC510SEFall24/HW1" >
+    <img src="https://codecov.io/gh/CSC510SEFall24/HW1/graph/badge.svg?token=L4EMYRC1ZG"/>
+  </a>
 </p>
