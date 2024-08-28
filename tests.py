@@ -1,4 +1,4 @@
-import pytest # type: ignore
+import pytest
 from fibonacci import fibonacci
 
 def test_fibonacci_positive():
